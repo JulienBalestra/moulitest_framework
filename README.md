@@ -6,7 +6,7 @@ Moulitest is a simple C framework to write repeatable tests.
 ## Install
 
 ```shell
-$ brew install https://raw.githubusercontent.com/yyang42/moulitest/fw/moulitest.rb
+$ brew install https://raw.githubusercontent.com/yyang42/moulitest_framework/fw/moulitest.rb
 ```
 
 - Ceci va installer le programme Moulitest sur votre machine.
